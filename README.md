@@ -1,6 +1,6 @@
 # Hi, I'm Saravana Kumar S 👋
 
-**System Administrator | IT Infrastructure, Automation & Cloud**
+**System Administrator | IT Infrastructure, Automation**
 
 📍 Kaladipet, Chennai, Tamil Nadu
 📧 saravanakumarofficial2003@gmail.com
