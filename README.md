@@ -1,6 +1,6 @@
 # Hi, I'm Saravana Kumar S 👋
 
-**System Administrator | IT Infrastructure, Automation**
+**SYSTEM ADMINISTRATOR | WINDOWS SERVER | ACTIVE DIRECTORY | MICROSOFT 365 | NETWORKING**
 
 📍 Kaladipet, Chennai, Tamil Nadu
 📧 saravanakumarofficial2003@gmail.com
