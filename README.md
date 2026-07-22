@@ -4,7 +4,7 @@
 
 📍 Kaladipet, Chennai, Tamil Nadu
 📧 saravanakumarofficial2003@gmail.com
-🔗 [linkedin.com/in/saravanakumar-s](https://linkedin.com/in/saravanakumar-s)
+🔗 [linkedin.com/in/saravanakumar-s](https://linkedin.com/in/saravanakumar-tech)
 
 ---
 
