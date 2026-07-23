@@ -31,18 +31,23 @@ I design automation-driven monitoring solutions using **PowerShell, Node.js, and
 `Microsoft Azure` `AWS` `Cloud Monitoring & Cost Optimization`
 
 ---
+## 🌟 Featured Project — RPP Galaxy
 
-### 🌟 Featured Project — RPP Galaxy
+AI-Powered Enterprise Infrastructure Monitoring Platform
 
-**AI Automation-Focused IT Monitoring System**
-A real-time infrastructure monitoring and alerting platform architected end-to-end at RPP Infra Projects Limited.
+- 🖥️ PowerShell Automation
+- ⚡ Node.js Backend
+- 🔄 WebSocket Live Monitoring
+- 🌐 Enterprise Dashboard
+- 📊 AI Analytics
 
-- 🔹 Custom **PowerShell telemetry agent** capturing live CPU, memory, disk, and uptime metrics
-- 🔹 **Node.js backend** with **WebSocket** connections for continuous, low-latency data streaming
-- 🔹 Interactive **live dashboards** for system health, availability, and performance trends
-- 🔹 **Automated alerting** and root-cause workflows that measurably reduced incident-resolution time
+### Repository
 
-📁 [View the project files →](./RPP-Galaxy)
+➡️ https://github.com/saravanakumarofficial2003-collab/RPP-Galaxy
+
+### Live Demo
+
+➡️ https://saravanakumarofficial2003-collab.github.io/RPP-Galaxy/
 
 ---
 
