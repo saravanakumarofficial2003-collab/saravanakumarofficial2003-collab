@@ -63,14 +63,6 @@ Managed 300+ desktop/server systems and IT infrastructure supporting 500+ users.
 
 ---
 
-### 📂 Explore My Work
-
-| Repository | Description |
-|---|---|
-| [PowerShell-Automation-Windows-Server](https://github.com/saravanakumarofficial2003-collab/PowerShell-Automation-Windows-Server) | PowerShell scripts, Windows Server, Microsoft 365 & networking documentation |
-
----
-
 ### 📊 GitHub Stats
 
 <p>
