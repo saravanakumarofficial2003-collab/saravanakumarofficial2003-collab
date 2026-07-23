@@ -13,12 +13,6 @@ System Administrator with 2+ years of experience managing enterprise IT infrastr
 I design automation-driven monitoring solutions using **PowerShell, Node.js, and WebSocket** technologies that improve uptime, cut manual effort, and speed up incident resolution. Currently expanding into **cloud infrastructure (AWS & Azure)** and DevOps practices to support scalable, cloud-native operations.
 
 ---
-Currently learning:
-• Microsoft Azure
-• AWS Cloud
-• Citrix Administration
-• DevOps Fundamentals
----
 ### 🧰 Tech Stack
 
 **Infrastructure & Platforms**
