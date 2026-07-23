@@ -45,10 +45,6 @@ AI-Powered Enterprise Infrastructure Monitoring Platform
 
 ➡️ https://github.com/saravanakumarofficial2003-collab/RPP-Galaxy
 
-### Live Demo
-
-➡️ https://saravanakumarofficial2003-collab.github.io/RPP-Galaxy/
-
 ---
 
 ### 💼 Experience
